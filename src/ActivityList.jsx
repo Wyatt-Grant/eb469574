@@ -19,7 +19,6 @@ const ActivityList = () => {
                     </span>
                 </div>
             </div>
-
         );
     }
 
